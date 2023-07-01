@@ -1,4 +1,4 @@
-package university;
+package Encapsulation.competition.university;
 
 import java.util.ArrayList;
 import java.util.List;

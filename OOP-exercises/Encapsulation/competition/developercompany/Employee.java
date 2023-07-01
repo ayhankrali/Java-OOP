@@ -1,4 +1,4 @@
-package developercompany;
+package Encapsulation.competition.developercompany;
 
 public class Employee {
     private String name;

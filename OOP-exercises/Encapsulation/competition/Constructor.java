@@ -1,4 +1,4 @@
-package competition;
+package Encapsulation.competition;
 
 public class Constructor {
     private String name;

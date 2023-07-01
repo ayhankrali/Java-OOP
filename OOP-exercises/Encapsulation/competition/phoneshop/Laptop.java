@@ -1,4 +1,4 @@
-package phoneshop;
+package Encapsulation.competition.phoneshop;
 
 public class Laptop extends Device{
     private String manufacturer;

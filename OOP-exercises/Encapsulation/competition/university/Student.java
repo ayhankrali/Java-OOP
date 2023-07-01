@@ -1,4 +1,4 @@
-package university;
+package Encapsulation.competition.university;
 
 public class Student {
     private String name;

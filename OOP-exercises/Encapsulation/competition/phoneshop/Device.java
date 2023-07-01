@@ -1,4 +1,4 @@
-package phoneshop;
+package Encapsulation.competition.phoneshop;
 
 public class Device {
     private String model;

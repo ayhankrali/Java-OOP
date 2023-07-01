@@ -1,4 +1,4 @@
-package competition;
+package Encapsulation.competition;
 
 import jdk.internal.access.JavaSecurityAccess;
 

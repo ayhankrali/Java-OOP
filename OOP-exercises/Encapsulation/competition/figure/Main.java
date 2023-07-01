@@ -1,4 +1,4 @@
-package figure;
+package Encapsulation.competition.figure;
 
 public class Main {
     public static void main(String[] args) {

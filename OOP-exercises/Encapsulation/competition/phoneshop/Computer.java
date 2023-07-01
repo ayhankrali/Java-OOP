@@ -1,4 +1,4 @@
-package phoneshop;
+package Encapsulation.competition.phoneshop;
 
 public class Computer extends Device{
     private int year;

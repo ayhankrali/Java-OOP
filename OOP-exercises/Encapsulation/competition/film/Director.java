@@ -1,4 +1,4 @@
-package film;
+package Encapsulation.competition.film;
 
 import java.util.List;
 

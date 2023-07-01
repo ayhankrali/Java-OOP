@@ -1,4 +1,4 @@
-package phoneshop;
+package Encapsulation.competition.phoneshop;
 
 public class DeviceStore {
     public static void main(String[] args) {
