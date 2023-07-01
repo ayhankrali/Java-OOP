@@ -2,7 +2,7 @@
 <project version="4">
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
-      <module name="Encapsulation-exercise" options="--add-exports java.base/jdk.internal.access=ALL-UNNAMED" />
+      <module name="OOP-exercise" options="--add-exports java.base/jdk.internal.access=ALL-UNNAMED" />
     </option>
   </component>
 </project>
