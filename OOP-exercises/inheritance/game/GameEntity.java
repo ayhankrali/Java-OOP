@@ -1,4 +1,4 @@
-package inheritance.animals.game;
+package inheritance.game;
 
 public class GameEntity {
     protected String name;

@@ -1,4 +1,4 @@
-package inheritance.animals.work;
+package inheritance.work;
 
 public class Developer extends Employee{
     private String programmingLanguage;

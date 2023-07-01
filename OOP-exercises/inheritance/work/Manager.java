@@ -1,4 +1,4 @@
-package inheritance.animals.work;
+package inheritance.work;
 
 public class Manager extends Employee{
     private int numProjectsManaged;

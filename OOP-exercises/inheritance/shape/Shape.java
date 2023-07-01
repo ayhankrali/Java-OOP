@@ -1,4 +1,4 @@
-package inheritance.animals.shape;
+package inheritance.shape;
 
 public class Shape {
     protected String color;

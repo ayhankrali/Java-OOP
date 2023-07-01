@@ -1,4 +1,4 @@
-package inheritance.animals.shape;
+package inheritance.shape;
 
 public class Rectangle extends Shape{
     protected double width;

@@ -1,4 +1,4 @@
-package inheritance.animals.game;
+package inheritance.game;
 
 public class Player extends GameEntity {
     private int health;

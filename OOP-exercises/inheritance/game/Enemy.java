@@ -1,4 +1,4 @@
-package inheritance.animals.game;
+package inheritance.game;
 
 public class Enemy extends GameEntity{
     private int damage;

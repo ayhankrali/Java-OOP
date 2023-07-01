@@ -1,4 +1,4 @@
-package inheritance.animals.shape;
+package inheritance.shape;
 
 public class Main {
     public static void main(String[] args) {
