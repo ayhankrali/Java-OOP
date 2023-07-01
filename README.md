@@ -11,7 +11,6 @@ Encapsulation
 Abstraction
 Interfaces
 Packages
-Exception Handling
 Introduction to OOP
 Object-Oriented Programming (OOP) is a programming paradigm that organizes software design around objects, which can represent real-world entities or abstract concepts. This section provides an introduction to the fundamental principles and advantages of OOP.
 
