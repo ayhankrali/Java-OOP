@@ -1,5 +1,5 @@
 # Java-OOP
-Java Object-Oriented Programming (OOP) 
+JAVA OBJECT-ORIENTED PROGRAMMING (OOP) 
 
 Welcome to the Java OOP Concepts documentation! This repository provides an overview of key concepts and principles of Object-Oriented Programming in Java.
 
