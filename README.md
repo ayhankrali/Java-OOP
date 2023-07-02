@@ -5,7 +5,7 @@ Welcome to the Java OOP Concepts documentation! This repository provides an over
 
 TABLE OF CONTENTS
 
-Introduction to OOP
+Introduction to OOP 
 
 Classes and Objects
 
