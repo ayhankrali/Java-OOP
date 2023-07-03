@@ -1,4 +1,4 @@
-package vehicle;
+package abstraction.vehicle;
 
 public class Vehicle {
     private String brand;
